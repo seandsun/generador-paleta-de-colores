@@ -1,0 +1,1 @@
+# Generador de paleta de colores
