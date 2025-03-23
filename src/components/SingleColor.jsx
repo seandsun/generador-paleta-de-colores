@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Click from '/copy.webp';
+import Click from '/copy.svg';
 import styles from './SingleColor.module.css'
 
 export const SingleColor = ({ hexColor }) => {
