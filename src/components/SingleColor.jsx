@@ -19,7 +19,7 @@ export const SingleColor = ({ hexColor }) => {
       <div className={styles.content}>
         <p>#{hexColor}</p>
         <button onClick={() => handleCopy(hexColor)}>
-          <img src={Click} alt="copy" />
+          <img src={Click} alt="copy icon" />
         </button>
       </div>
       {copy && <p className={styles.copyAlert}>Copiado en el portapapeles</p>}
