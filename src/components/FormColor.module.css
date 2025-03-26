@@ -23,7 +23,7 @@
   font-size: inherit;
   border-radius: 10px;
   background-color: #09f;
-  color: #fff;
+  color: #000;
   transition: 0.3s;
 
   &:hover {
